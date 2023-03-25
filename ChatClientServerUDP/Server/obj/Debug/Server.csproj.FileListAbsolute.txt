@@ -1,0 +1,11 @@
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\bin\Debug\Server.exe.config
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\bin\Debug\Server.exe
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\bin\Debug\Server.pdb
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\ChatClientServerUDP.ServerUDP.resources
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.exe
+C:\Users\PC MSI\source\repos\ChatClientServerUDP\Server\obj\Debug\Server.pdb
