@@ -32,10 +32,9 @@ namespace ChatClientServerUDP
             socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
             IPEndPoint IPep = new IPEndPoint(IPAddress.Parse(tbIP.Text), Int32.Parse(tbPort.Text));
             socket.Bind(IPep);
-            //Thread listen = new Thread(Receive);
-            //listen.IsBackground = true;
-            //listen.Start();
-            Receive();
+            Thread listen = new Thread(Receive);
+            listen.IsBackground = true;
+            listen.Start();
         }
         void Receive()
         {
